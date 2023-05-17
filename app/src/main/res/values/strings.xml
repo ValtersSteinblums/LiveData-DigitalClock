@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataInDetail</string>
+    <string name="textview_text">Text</string>
+    <string name="button_text">click me</string>
+</resources>
